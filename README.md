@@ -1,6 +1,12 @@
-<img src="./github-metrics.svg">
-<img src="./metrics.plugin.isocalendar.fullyear.svg">
-<img src="./metrics.plugin.languages.details.svg">
+<picture>
+<img src="./github-metrics.svg" alt="Metrics">
+</picture>
+<picture>
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Iso Calendar">
+</picture>
+<picture>
+<img src="./metrics.plugin.languages.details.svg" alt="Languages">
+</picture>
 
 
 <!--
