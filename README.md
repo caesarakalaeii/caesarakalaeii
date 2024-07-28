@@ -1,6 +1,7 @@
-### Hi there 👋
-
 <img src="./github-metrics.svg">
+<img src="./metrics.plugin.isocalendar.fullyear.svg">
+<img src="./metrics.plugin.languages.details.svg">
+
 
 <!--
 **caesarakalaeii/caesarakalaeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
